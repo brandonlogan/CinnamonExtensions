@@ -1,7 +1,8 @@
 {
  "uuid": "multimonitorpanels@brandonlogan",
  "name": "Multiple monitor panels",
- "description": "Makes panels that can be used on multiple monitors."
- "cinnamon-version": ["1.8.0"],
+ "description": "Makes panels that can be used on multiple monitors.",
+ "cinnamon-version": [ "1.8" ],
+ "version": "0.01",
  "url": "https://github.com/brandonlogan/CinnamonExtensions"
 }
